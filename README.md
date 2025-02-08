@@ -96,17 +96,17 @@ Use "npm run-script " followed by any of the following commands :
 
 # Authors
 
-👤 **Zakariae El Mejdki**
+👤 **Waziri Kunambi**
 
-- Github: [@elmejdki](https://github.com/elmejdki)
-- Twitter: [@zakariae_elmejdki](https://twitter.com/zakariaemejdki)
-- Linkedin: [El Mejdki Zakariae](https://www.linkedin.com/in/zakariaeelmejdki/)
+- Github: [@Wisdom-Kunambi](https://github.com/Wisdom-Kunambi)
+- X: [@KunambiWaziri](https://www.x.com/KunambiWaziri)
+- Linkedin: [Waziri Kunambi](https://linkedin.com/in/waziri-kunambi)
 
 ## 🤝 Contributing
 
 Contributions, issues and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/elmejdki/FlappyBird/issues).
+Feel free to check the [issues page](https://github.com/Wisdom-Kunambi/FlappyBird/issues).
 
 ## Show your support
 
