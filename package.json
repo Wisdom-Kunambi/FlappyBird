@@ -7,7 +7,7 @@
     "test": "jest",
     "start": "webpack --watch",
     "build": "webpack --mode=production",
-    "server": "webpack-dev-server --open"
+    "server": "NODE_OPTIONS=--openssl-legacy-provider webpack-dev-server --open"
   },
   "repository": {
     "type": "git",
